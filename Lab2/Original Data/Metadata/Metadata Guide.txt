@@ -1,0 +1,26 @@
+Legenda kolumn:
+iso2 - kod kraju,
+year - rok, w którym przypadek został zarejestrowany,
+new_sp - nowe przypadki,
+
+new_sp_m04 - nowe przypadki, mężczyźni w wieku 0-4 lat,
+new_sp_m514 - nowe przypadki, mężczyźni w wieku 5-14 lat,
+new_sp_m014 - nowe przypadki, mężczyźni w wieku 0-14 lat,
+new_sp_m1524 - nowe przypadki, mężczyźni w wieku 15-24 lat,
+new_sp_m2534 - nowe przypadki, mężczyźni w wieku 25-34 lat,
+new_sp_m3544 - nowe przypadki, mężczyźni w wieku 35-44 lat,
+new_sp_m4554 - nowe przypadki, mężczyźni w wieku 45-54 lat,
+new_sp_m5564 - nowe przypadki, mężczyźni w wieku 55-64 lat,
+new_sp_m65 - nowe przypadki, mężczyźni w wieku 65+ lat,
+new_sp_mu - nowe przypadki, mężczyźni w niezdefiniowanym wieku,
+
+new_sp_f04 - nowe przypadki, kobiety w wieku 0-4 lat,
+new_sp_f514 - nowe przypadki, kobiety w wieku 5-14 lat,
+new_sp_f014 - nowe przypadki, kobiety w wieku 0-14 lat,
+new_sp_f1524 - nowe przypadki, kobiety w wieku 15-24 lat,
+new_sp_f2534 - nowe przypadki, kobiety w wieku 25-34 lat,
+new_sp_f3544 - nowe przypadki, kobiety w wieku 35-44 lat,
+new_sp_f4554 - nowe przypadki, kobiety w wieku 45-54 lat,
+new_sp_f5564 - nowe przypadki, kobiety w wieku 55-64 lat,
+new_sp_f65 - nowe przypadki, kobiety w wieku 65+
+new_sp_fu - nowe przypadki, kobiety w niezdefiniowanym wieku
